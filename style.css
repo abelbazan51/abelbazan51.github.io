@@ -1,0 +1,21 @@
+.article1 {
+  display: flex;
+  justify-content: center;
+}
+.imagen-1 {
+  width: 35%;
+}
+footer {
+  padding: 2%;
+}
+.contactanos1 {
+  text-decoration: none;
+  color: rgb(255, 255, 255);
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-size: 24px;
+}
+@media only screen and (max-width: 800px) {
+  .imagen-1 {
+    width: 100%;
+  }
+}
