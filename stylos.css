@@ -55,6 +55,13 @@ footer {
   border-radius: 20%;
   margin: 10px 10px;
 }
+.carousel-inner {
+  width: 50%;
+}
+.carousel {
+  display: flex;
+  justify-content: center;
+}
 .contenido-intro {
   font-size: 100%;
 }
