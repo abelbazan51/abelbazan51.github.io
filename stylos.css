@@ -55,14 +55,12 @@ footer {
   border-radius: 20%;
   margin: 10px 10px;
 }
-@media (min-width: 503px) {
+@media (min-width: 703px) {
   .carousel-inner {
-    width: 100%;
+    width: 40%;
   }
 }
-.carousel-inner {
-  width: 50%;
-}
+
 .carousel {
   display: flex;
   justify-content: center;
