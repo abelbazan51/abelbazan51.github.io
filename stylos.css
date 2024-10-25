@@ -55,7 +55,7 @@ footer {
   border-radius: 20%;
   margin: 10px 10px;
 }
-@media (min-width: 703px) {
+@media (min-width: 1000px) {
   .carousel-inner {
     width: 40%;
   }
